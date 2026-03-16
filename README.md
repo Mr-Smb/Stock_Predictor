@@ -1,5 +1,4 @@
 
----
 
 # 📊 Overview
 
@@ -21,7 +20,7 @@ Machine Learning models like **LSTM neural networks** can learn patterns in time
 
 ---
 
-## 📸 Application Preview
+# 📸 Application Preview
 
 <p align="center">
   <img src="assets/ls.png" width="750"/>
