@@ -1,0 +1,9 @@
+raw_path: data/raw
+processed_path: data/processed
+symbols:
+  - AAPL
+  - MSFT
+  - GOOG
+  - NVDA
+period: 5y
+

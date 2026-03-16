@@ -1,0 +1,5 @@
+{
+  "name": "Stock Prediction",
+  "description": "A professional-grade stock analysis terminal featuring real-time data via yfinance, LSTM-based price forecasting, and technical indicator analysis.",
+  "requestFramePermissions": []
+}

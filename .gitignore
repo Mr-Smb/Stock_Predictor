@@ -1,0 +1,52 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+# Node
+node_modules/
+
+# Build files
+build/
+dist/
+coverage/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# ML models
+models/
+*.pkl
+*.h5
+*.pt
+
+# Data
+data/raw/
+data/processed/
+
+# IDE
+.vscode/
+.idea/
+
+# Qodo
+.qodo/
