@@ -1,7 +1,7 @@
 import { useState, useCallback } from "react";
 import { stockService } from "../../api/services/stock_service";
 import { AnalysisResult } from "../../api/types/market_types";
-import { lstmPredict } from "../../ml/models/lstm_model";
+import { lstmPredict } from "ml/models/lstm_model";
 import { computeSignal, computeMetrics } from "../../ml/signals/technical_analysis";
 
 export function useAnalysis() {
